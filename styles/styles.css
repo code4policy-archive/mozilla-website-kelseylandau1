@@ -38,10 +38,10 @@ img {
   margin: 0 auto;
 }
 /* making the pull quotes red */
-.quote: {
+.quote {
   color: red;
 }
-#mainquote: {
+#mainquote {
   color: red;
   border: 1px solid black;
 }
