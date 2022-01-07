@@ -37,3 +37,11 @@ img {
   display: block;
   margin: 0 auto;
 }
+/* making the pull quotes red */
+.quote {
+  color: red;
+}
+#mainquote {
+  color: red;
+  border: 1px solid black;
+}
